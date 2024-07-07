@@ -1,4 +1,4 @@
-name: Deploy Strapi with Terraform
+name: Deploy Strapii with Terraform
 
 on:
   push:
